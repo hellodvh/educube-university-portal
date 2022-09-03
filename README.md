@@ -1,14 +1,20 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Pieter-stack/EduCube2?color=%235938E8)
-![GitHub watchers](https://img.shields.io/github/watchers/Pieter-stack/Educube2?color=%235938E8)
-![GitHub language count](https://img.shields.io/github/languages/count/Pieter-stack/EduCube2?color=%235938E8)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pieter-stack/EduCube2?color=%235938E8)
+<div align="center">
 
-<h6 align="center">Interactive Development 300</h6>
-<h6 align="center">Pieter Venter 200054</h6>
-<h6 align="center">Dylan Vanhout 190160</h6>
+![GitHub repo size](https://img.shields.io/github/repo-size/hellodvh/ion-inventory-web-app?color=5938E8&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/hellodvh/ion-inventory-web-app?color=FC6923&logoColor=ffa01c&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/hellodvh/ion-inventory-web-app?color=5938E8&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/hellodvh/ion-inventory-web-app?color=FC6923&label=LICENSE&style=for-the-badge)
+
+</div>
+
+<h4 align="center">Interactive Development 300</h4>
+<h6 align="center">DV303 2022</h6>
+<h5 align="center">Pieter Venter 200054</h5>
+<h5 align="center">&</h5>
+<h5 align="center">Dylan Vanhout 190160</h5>
 <p align="center">
 </br>
    
@@ -30,6 +36,7 @@
        ·
        <a href="https://github.com/Pieter-stack/EduCube2/issues">Request Feature</a>
    </p>
+
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -82,17 +89,15 @@ This app features a Funds Pool page which allows the Admin staff to recieve tuit
 
 ### Built With
 
-* [Visual Studio](https://visualstudio.microsoft.com/)
-* [.NET](https://docs.microsoft.com/en-us/dotnet/)
-* [MAUI](https://docs.microsoft.com/en-us/dotnet/maui/)
-* [GitHub](https://github.com/)
+[![GitHub os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![GitHub os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-za/windows)
+[![GitHub os](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![GitHub skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+[![GitHub os](https://img.shields.io/badge/.NET-MAUI-a08be8.svg?colorA=555555&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui)
+[![GitHub skills](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html/)
+[![GitHub skills](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![GitHub skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&)](https://www.figma.com/signup)
 
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Dotnet-bot.svg" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Mark.png" width="5%" height="5%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- GETTING STARTED -->
 ## Getting Started
