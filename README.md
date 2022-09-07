@@ -3,10 +3,10 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/hellodvh/ion-inventory-web-app?color=5938E8&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/hellodvh/ion-inventory-web-app?color=FC6923&logoColor=ffa01c&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/hellodvh/ion-inventory-web-app?color=5938E8&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/hellodvh/ion-inventory-web-app?color=FC6923&label=LICENSE&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/hellodvh/educube-university-portal?color=5938E8&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/hellodvh/educube-university-portal?color=FC6923&logoColor=ffa01c&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/hellodvh/educube-university-portal?color=5938E8&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/hellodvh/educube-university-portal?color=FC6923&label=LICENSE&style=for-the-badge)
 
 </div>
 
